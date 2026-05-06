@@ -9,6 +9,8 @@ Use this file so automated tools know **where the binding UI/UX rules live** in 
 3. **Process & governance** — under `UI UX Guidelines/Process & Governance/`.
 4. **Machine-readable excerpt** — [`DESIGN.md`](DESIGN.md) at repo root (for Stitch / narrow context windows). If `DESIGN.md` and the hub disagree, **the hub wins**; update `DESIGN.md`.
 
+**Do not treat `UI UX Guidelines/Projects/**` as binding** unless a doc explicitly records promotion into `Standards/`. Pilot `DESIGN.md` files describe **product-specific experiments** — see [`UI UX Guidelines/Projects/README.md`](UI%20UX%20Guidelines/Projects/README.md).
+
 ## Tool-specific
 
 - **Figma:** Component and variable naming should align with token names and the **Components & patterns** chapter. Visual proof and embeds are referenced from the hub; do not invent off-palette accents.

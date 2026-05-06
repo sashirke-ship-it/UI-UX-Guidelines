@@ -1,0 +1,10 @@
+# Code owners — optional but recommended for review routing.
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+#
+# Uncomment and replace with your GitHub username or org team (e.g. @my-org/design-system).
+# Lines without a leading # must be: <pattern> <@owner> [<@owner2> ...]
+#
+# * @YOUR_GITHUB_USERNAME_OR_TEAM
+# /UI UX Guidelines/Standards/ @YOUR_GITHUB_USERNAME_OR_TEAM
+# /DESIGN.md @YOUR_GITHUB_USERNAME_OR_TEAM
+# /AGENTS.md @YOUR_GITHUB_USERNAME_OR_TEAM

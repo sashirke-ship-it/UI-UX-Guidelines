@@ -1,6 +1,8 @@
 # DESIGN.md — agent projection (Stitch / Claude / generators)
 
-**Full source of truth:** [`UI UX Guidelines/UI UX guidelines 20be6c5f913d4f53ac0e76eb5e904eef.md`](UI%20UX%20Guidelines/UI%20UX%20guidelines%2020be6c5f913d4f53ac0e76eb5e904eef.md). This file is a **short, generator-friendly** projection; refresh it when `globals.css` (or your shipped theme) or hub tables change.
+**Not org-wide SSOT:** any `DESIGN.md` nested under **`UI UX Guidelines/Projects/`** describes **pilots only** — see [`UI UX Guidelines/Projects/README.md`](UI%20UX%20Guidelines/Projects/README.md).
+
+**Full source of truth:** [`UI UX Guidelines/UI UX guidelines 20be6c5f913d4f53ac0e76eb5e904eef.md`](UI%20UX%20Guidelines/UI%20UX%20guidelines%2020be6c5f913d4f53ac0e76eb5e904eef.md). This file at repo root is a **short, generator-friendly** projection; refresh it when `globals.css` (or your shipped theme) or hub tables change.
 
 ## Non-negotiables
 

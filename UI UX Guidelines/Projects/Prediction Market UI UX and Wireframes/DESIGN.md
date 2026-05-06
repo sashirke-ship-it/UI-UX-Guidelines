@@ -1,3 +1,9 @@
+> **⚠ Pilot / product-specific DESIGN file (not organizational SSOT).**  
+> This specification was used for an **experimental “Financial Editorial & Market Insight”** direction (palette intentionally diverges from the company hub).  
+> **Default tokens for org tooling:** repo root [`DESIGN.md`](../../../DESIGN.md) and canonical hub [`UI UX guidelines`](../../../UI%20UX%20Guidelines/UI%20UX%20guidelines%2020be6c5f913d4f53ac0e76eb5e904eef.md). See [`Projects/README`](../README.md).
+
+---
+
 # Design System Specification: Financial Editorial & Market Insight
 
 ## 1. Overview & Creative North Star
